@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hola, mi nombre es Adrian 👋
+Soy un estudiante autodidacta de programacion, actualmente estoy aprendiendo programacion web, y en un futuro me gustaria explorar otras ramas como de la programacion.
+Mi meta es convertirve en un desarrollador de software, tomando en cuenta mis estudios en todos los aspectos.
+##Tecnologias:
+Mis conocimientos son basicos, sin embargo las tecnologias en las que estoy un poco empapado y que me gustaria aprender son las siguientes:
+<br>
+`JavaScript`
+`CSS`
+`Html`
+`NodeJs`
+<br>
+Proximamente quiero aprender:
+<br>
+`Python`
+`SQL`
 
-<!--
-**AdriR-R/AdriR-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
